@@ -3,9 +3,13 @@
 Project Overview
 
 The goal of this project is to build a Smart Weather Monitoring System that:
+   
     1. Collects environmental data (temperature, humidity, and air quality) using sensors.
+    
     2. Processes the data locally using AI for anomaly detection.
+    
     3. Sends the data to AWS IoT Core for visualization and storage.
+    
     4. Provides real-time alerts for anomalies.
 
 This project will help you gain hands-on experience in embedded systems, AI/ML, and cloud computing.
