@@ -9,6 +9,7 @@ The goal of this project is to build a Smart Weather Monitoring System that:
     4. Provides real-time alerts for anomalies.
 
 This project will help you gain hands-on experience in embedded systems, AI/ML, and cloud computing.
+
 **Hardware Requirements**
     Microcontroller Board: ESP32 DevKit V1 (ESP32-WROOM-32).
     Sensors:
