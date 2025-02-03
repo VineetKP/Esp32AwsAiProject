@@ -11,14 +11,19 @@ The goal of this project is to build a Smart Weather Monitoring System that:
 This project will help you gain hands-on experience in embedded systems, AI/ML, and cloud computing.
 
 **Hardware Requirements**
+    
     Microcontroller Board: ESP32 DevKit V1 (ESP32-WROOM-32).
+    
     Sensors:
         Temperature and Humidity: DHT22 or BME280.
         Air Quality: MQ-135.
+    
     Power Supply: USB cable or battery pack.
+    
     Miscellaneous: Jumper wires, breadboard.
 
 **Software Requirements**
+
     Development Environment:
         Arduino IDE or PlatformIO.
         TensorFlow Lite for Microcontrollers.
