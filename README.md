@@ -42,3 +42,4 @@ This project will help you gain hands-on experience in embedded systems, AI/ML, 
 
 1. ESP32_test............................................................................(LED Blinking flash on ESP32)
 2. Esp32_DHT22_test......................................................................(DHT22 sample code flash on ESP32)
+3. Esp32_MatrixMul_test..................................................................(task creation and CMake based sample code flash on ESP32)
